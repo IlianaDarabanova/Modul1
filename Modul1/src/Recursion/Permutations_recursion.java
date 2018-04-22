@@ -4,38 +4,39 @@ package Recursion;
 import java.util.Scanner;
 
 public class Permutations_recursion {
-    public static int numberOfLoops;
-    public static int numberOfIterations;
+    public static int K;
+    public static int N;
     public static long[] loops;
 
     public static void main(String[] args){
         Scanner input = new Scanner(System.in);
         // System.out.print("N=");
-        numberOfLoops = input.nextInt();
+        N = input.nextInt();
 
         // System.out.print("K=");
-        numberOfIterations = numberOfLoops;
+        K = input.nextInt();
 
-        loops = new long[numberOfLoops];
-        nestedLoops(0);
+        loops = new long[K];
+        combinations(0,1);
     }
 
-    public static void nestedLoops(int currentLoop){
+    public static void combinations(int index, int number){
 
-        if(currentLoop==numberOfLoops){
+        if(index==K){
             printLoops();
             return;
         }
-        for (int counter = 1; counter <= numberOfIterations ; counter++) {
-            loops[currentLoop] = counter;
-            nestedLoops(currentLoop+1);
+        for (int counter = number; counter <= N ; counter++) {
+
+            loops[index] = counter;
+            combinations(index+1,number);
 
         }
 
     }
 
     public static void printLoops(){
-        for(int i = 0; i<numberOfLoops;i++){
+        for(int i = 0; i<K;i++){
             System.out.printf("%d", loops[i]);
         }
         System.out.println();
