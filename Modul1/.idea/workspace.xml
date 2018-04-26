@@ -15,8 +15,8 @@
       <file leaf-file-name="TheGreedyDwarf.java" pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/src/AdvancedExam/TheGreedyDwarf.java">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="17">
-              <caret line="49" column="13" selection-start-line="49" selection-start-column="13" selection-end-line="49" selection-end-column="13" />
+            <state relative-caret-position="578">
+              <caret line="37" column="33" selection-start-line="37" selection-start-column="33" selection-end-line="37" selection-end-column="33" />
               <folding>
                 <element signature="imports" expanded="true" />
               </folding>
@@ -24,14 +24,95 @@
           </provider>
         </entry>
       </file>
-      <file leaf-file-name="Expressions.java" pinned="false" current-in-tab="true">
+      <file leaf-file-name="Expressions.java" pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/src/AdvancedExam/Expressions.java">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="153">
-              <caret line="9" column="15" lean-forward="true" selection-start-line="9" selection-start-column="15" selection-end-line="9" selection-end-column="15" />
+            <state relative-caret-position="-1453">
+              <caret line="12" column="46" lean-forward="true" selection-start-line="12" selection-start-column="46" selection-end-line="12" selection-end-column="46" />
               <folding>
                 <element signature="imports" expanded="true" />
               </folding>
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="StringLatin1.java" pinned="false" current-in-tab="false">
+        <entry file="jar://C:/Program Files/Java/jdk-10/lib/src.zip!/java.base/java/lang/StringLatin1.java">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="170">
+              <caret line="43" selection-start-line="43" selection-end-line="43" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="mazalo.java" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/src/Arrays/mazalo.java">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="340">
+              <caret line="21" column="7" selection-start-line="21" selection-start-column="7" selection-end-line="21" selection-end-column="7" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="TwoMakeASum.java" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/src/AdvancedExamRemake/TwoMakeASum.java">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="391">
+              <caret line="25" column="9" selection-start-line="25" selection-start-column="9" selection-end-line="25" selection-end-column="9" />
+              <folding>
+                <element signature="imports" expanded="true" />
+              </folding>
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="ExpressionsAgain.java" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/src/AdvancedExamRemake/ExpressionsAgain.java">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="663">
+              <caret line="39" selection-start-line="39" selection-end-line="39" />
+              <folding>
+                <element signature="imports" expanded="true" />
+              </folding>
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="JoroTheNaughty.java" pinned="false" current-in-tab="true">
+        <entry file="file://$PROJECT_DIR$/src/AdvancedExamRemake/JoroTheNaughty.java">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="17">
+              <caret line="4" column="13" selection-start-line="4" selection-start-column="13" selection-end-line="4" selection-end-column="13" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="SubsetOfSumS.java" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/src/Arrays/SubsetOfSumS.java">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="765">
+              <caret line="46" selection-end-line="46" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="MessageInBottle.java" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/src/Recursion/MessageInBottle.java">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="391">
+              <caret line="27" column="10" selection-start-line="27" selection-start-column="10" selection-end-line="27" selection-end-column="10" />
+              <folding>
+                <element signature="imports" expanded="true" />
+              </folding>
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="AandB.java" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/src/AdvancedExamRemake/AandB.java">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="-113">
+              <caret line="8" column="16" selection-start-line="8" selection-start-column="16" selection-end-line="8" selection-end-column="16" />
             </state>
           </provider>
         </entry>
@@ -78,7 +159,6 @@
         <option value="$PROJECT_DIR$/src/random/sayHello.java" />
         <option value="$PROJECT_DIR$/src/Arrays/BitShiftMatrix.java" />
         <option value="$PROJECT_DIR$/src/Arrays/Indices.java" />
-        <option value="$PROJECT_DIR$/src/Recursion/MessageInBottle.java" />
         <option value="$PROJECT_DIR$/src/Arrays/ZigZag.java" />
         <option value="$PROJECT_DIR$/src/Arrays/ZigZagNew.java" />
         <option value="$PROJECT_DIR$/src/AdvancedExam/TheGreedyDwarf.java" />
@@ -88,6 +168,12 @@
         <option value="$PROJECT_DIR$/src/ExamExercises/TheGreedyDwarf.java" />
         <option value="$PROJECT_DIR$/src/Recursion/SecretMessage.java" />
         <option value="$PROJECT_DIR$/src/Recursion/Expressions.java" />
+        <option value="$PROJECT_DIR$/src/Recursion/MessageInBottle.java" />
+        <option value="$PROJECT_DIR$/src/AdvancedExamRemake/AandB.java" />
+        <option value="$PROJECT_DIR$/src/AdvancedExamRemake/ExpressionsAgain.java" />
+        <option value="$PROJECT_DIR$/src/AdvancedExamRemake/JoroTheNaughty.java" />
+        <option value="$PROJECT_DIR$/src/AdvancedExamRemake/TwoMakeASum.java" />
+        <option value="$PROJECT_DIR$/src/Arrays/mazalo.java" />
         <option value="$PROJECT_DIR$/src/AdvancedExam/Expressions.java" />
       </list>
     </option>
@@ -102,7 +188,6 @@
       <foldersAlwaysOnTop value="true" />
     </navigator>
     <panes>
-      <pane id="AndroidView" />
       <pane id="ProjectPane">
         <subPane>
           <expand>
@@ -120,6 +205,12 @@
               <item name="Modul1" type="462c0819:PsiDirectoryNode" />
               <item name="src" type="462c0819:PsiDirectoryNode" />
               <item name="AdvancedExam" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="Modul1" type="b2602c69:ProjectViewProjectNode" />
+              <item name="Modul1" type="462c0819:PsiDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
+              <item name="AdvancedExamRemake" type="462c0819:PsiDirectoryNode" />
             </path>
             <path>
               <item name="Modul1" type="b2602c69:ProjectViewProjectNode" />
@@ -149,8 +240,9 @@
           <select />
         </subPane>
       </pane>
-      <pane id="PackagesPane" />
       <pane id="Scope" />
+      <pane id="AndroidView" />
+      <pane id="PackagesPane" />
     </panes>
   </component>
   <component name="PropertiesComponent">
@@ -171,18 +263,7 @@
       </list>
     </option>
   </component>
-  <component name="RunManager" selected="Application.TheGreedyDwarf (1)">
-    <configuration name="BitConvert" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="AdvancedExam.BitConvert" />
-      <module name="Modul1" />
-      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$" />
-      <extension name="coverage">
-        <pattern>
-          <option name="PATTERN" value="AdvancedExam.*" />
-          <option name="ENABLED" value="true" />
-        </pattern>
-      </extension>
-    </configuration>
+  <component name="RunManager" selected="Application.Expressions">
     <configuration name="Expressions" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
       <option name="MAIN_CLASS_NAME" value="AdvancedExam.Expressions" />
       <module name="Modul1" />
@@ -194,30 +275,44 @@
         </pattern>
       </extension>
     </configuration>
-    <configuration name="TheGreedyDwarf (1)" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="ExamExercises.TheGreedyDwarf" />
+    <configuration name="ExpressionsAgain" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="AdvancedExamRemake.ExpressionsAgain" />
       <module name="Modul1" />
       <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="ExamExercises.*" />
+          <option name="PATTERN" value="AdvancedExamRemake.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
     </configuration>
-    <configuration name="TheGreedyDwarf" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="AdvancedExam.TheGreedyDwarf" />
+    <configuration name="JoroTheNaughty" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="AdvancedExamRemake.JoroTheNaughty" />
       <module name="Modul1" />
       <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="AdvancedExam.*" />
+          <option name="PATTERN" value="AdvancedExamRemake.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
     </configuration>
-    <configuration name="ZigZag" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="Arrays.ZigZag" />
+    <configuration name="TwoMakeASum" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="AdvancedExamRemake.TwoMakeASum" />
+      <module name="Modul1" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="AdvancedExamRemake.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+    </configuration>
+    <configuration default="true" type="Application" factoryName="Application">
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$" />
+    </configuration>
+    <configuration name="mazalo" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="Arrays.mazalo" />
       <module name="Modul1" />
       <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$" />
       <extension name="coverage">
@@ -226,9 +321,6 @@
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
-    </configuration>
-    <configuration default="true" type="Application" factoryName="Application">
-      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$" />
     </configuration>
     <configuration default="true" type="JUnit" factoryName="JUnit">
       <option name="ALTERNATIVE_JRE_PATH_ENABLED" value="false" />
@@ -269,19 +361,19 @@
       <listeners />
     </configuration>
     <list>
-      <item itemvalue="Application.ZigZag" />
-      <item itemvalue="Application.TheGreedyDwarf" />
-      <item itemvalue="Application.BitConvert" />
       <item itemvalue="Application.Expressions" />
-      <item itemvalue="Application.TheGreedyDwarf (1)" />
+      <item itemvalue="Application.ExpressionsAgain" />
+      <item itemvalue="Application.JoroTheNaughty" />
+      <item itemvalue="Application.TwoMakeASum" />
+      <item itemvalue="Application.mazalo" />
     </list>
     <recent_temporary>
       <list>
-        <item itemvalue="Application.TheGreedyDwarf (1)" />
         <item itemvalue="Application.Expressions" />
-        <item itemvalue="Application.BitConvert" />
-        <item itemvalue="Application.TheGreedyDwarf" />
-        <item itemvalue="Application.ZigZag" />
+        <item itemvalue="Application.TwoMakeASum" />
+        <item itemvalue="Application.mazalo" />
+        <item itemvalue="Application.ExpressionsAgain" />
+        <item itemvalue="Application.JoroTheNaughty" />
       </list>
     </recent_temporary>
   </component>
@@ -300,7 +392,6 @@
   </component>
   <component name="ToolWindowManager">
     <frame x="-8" y="-8" width="1382" height="744" extended-state="6" />
-    <editor active="true" />
     <layout>
       <window_info anchor="right" id="Palette" order="3" />
       <window_info anchor="bottom" id="TODO" order="6" />
@@ -310,11 +401,11 @@
       <window_info anchor="bottom" id="Event Log" order="7" sideWeight="0.5014641" side_tool="true" weight="0.32913387" />
       <window_info anchor="right" id="Maven Projects" order="3" />
       <window_info anchor="bottom" id="Version Control" order="7" show_stripe_button="false" />
-      <window_info anchor="bottom" id="Run" order="2" sideWeight="0.49853587" weight="0.38267717" />
+      <window_info anchor="bottom" id="Run" order="2" sideWeight="0.49853587" weight="0.37480316" />
       <window_info anchor="bottom" id="Terminal" order="7" />
       <window_info id="Capture Tool" order="2" />
       <window_info id="Designer" order="2" />
-      <window_info active="true" content_ui="combo" id="Project" order="0" visible="true" weight="0.14714494" />
+      <window_info active="true" content_ui="combo" id="Project" order="0" visible="true" weight="0.2137628" />
       <window_info id="Structure" order="1" side_tool="true" weight="0.25" />
       <window_info anchor="right" id="Ant Build" order="1" weight="0.25" />
       <window_info id="UI Designer" order="2" />
@@ -323,11 +414,11 @@
       <window_info anchor="bottom" id="Debug" order="3" sideWeight="0.49926794" weight="0.3559055" />
       <window_info anchor="right" content_ui="combo" id="Hierarchy" order="2" weight="0.25" />
       <window_info anchor="bottom" id="Inspection" order="5" weight="0.4" />
-      <window_info anchor="bottom" id="Messages" order="7" weight="0.32913387" />
       <window_info anchor="right" id="Commander" internal_type="SLIDING" order="0" type="SLIDING" weight="0.4" />
       <window_info anchor="bottom" id="Message" order="0" />
       <window_info anchor="bottom" id="Cvs" order="4" weight="0.25" />
       <window_info anchor="bottom" id="Find" order="1" />
+      <window_info anchor="bottom" id="Messages" order="7" weight="0.32913387" />
     </layout>
   </component>
   <component name="VcsContentAnnotationSettings">
@@ -341,6 +432,24 @@
           <line>5</line>
           <properties />
           <option name="timeStamp" value="6" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/src/AdvancedExamRemake/AandB.java</url>
+          <line>4</line>
+          <properties />
+          <option name="timeStamp" value="37" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/src/AdvancedExamRemake/AandB.java</url>
+          <line>17</line>
+          <properties />
+          <option name="timeStamp" value="39" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/src/AdvancedExamRemake/TwoMakeASum.java</url>
+          <line>6</line>
+          <properties />
+          <option name="timeStamp" value="53" />
         </line-breakpoint>
         <line-breakpoint enabled="true" type="java-method">
           <url>file://$PROJECT_DIR$/src/Recursion/Permutations_recursion.java</url>
@@ -384,14 +493,54 @@
         </line-breakpoint>
         <line-breakpoint enabled="true" type="java-method">
           <url>file://$PROJECT_DIR$/src/AdvancedExam/Expressions.java</url>
-          <line>24</line>
+          <line>21</line>
           <properties class="AdvancedExam.Expressions">
             <option name="EMULATED" value="true" />
           </properties>
           <option name="timeStamp" value="35" />
         </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-method">
+          <url>file://$PROJECT_DIR$/src/AdvancedExamRemake/AandB.java</url>
+          <line>23</line>
+          <properties class="AdvancedExamRemake.AandB" method="findCombinations">
+            <option name="EMULATED" value="true" />
+          </properties>
+          <option name="timeStamp" value="38" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-method">
+          <url>file://$PROJECT_DIR$/src/AdvancedExamRemake/JoroTheNaughty.java</url>
+          <line>26</line>
+          <properties class="AdvancedExamRemake.JoroTheNaughty" method="move">
+            <option name="EMULATED" value="true" />
+          </properties>
+          <option name="timeStamp" value="51" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-method">
+          <url>file://$PROJECT_DIR$/src/AdvancedExamRemake/TwoMakeASum.java</url>
+          <line>42</line>
+          <properties class="AdvancedExamRemake.TwoMakeASum">
+            <option name="EMULATED" value="true" />
+          </properties>
+          <option name="timeStamp" value="52" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-method">
+          <url>file://$PROJECT_DIR$/src/AdvancedExamRemake/TwoMakeASum.java</url>
+          <line>7</line>
+          <properties class="AdvancedExamRemake.TwoMakeASum" method="main">
+            <option name="EMULATED" value="true" />
+          </properties>
+          <option name="timeStamp" value="54" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-method">
+          <url>file://$PROJECT_DIR$/src/AdvancedExam/Expressions.java</url>
+          <line>52</line>
+          <properties class="AdvancedExam.Expressions" method="conver">
+            <option name="EMULATED" value="true" />
+          </properties>
+          <option name="timeStamp" value="57" />
+        </line-breakpoint>
       </breakpoints>
-      <option name="time" value="37" />
+      <option name="time" value="58" />
     </breakpoint-manager>
     <watches-manager>
       <configuration name="Application">
@@ -401,30 +550,6 @@
     </watches-manager>
   </component>
   <component name="editorHistoryManager">
-    <entry file="file://$PROJECT_DIR$/src/ObjectOrientedProgramming/Main.java" />
-    <entry file="file://$PROJECT_DIR$/src/ObjectOrientedProgramming/Person.java" />
-    <entry file="file://$PROJECT_DIR$/src/ObjectOrientedProgramming/Main.java" />
-    <entry file="file://$PROJECT_DIR$/src/Arrays/Bounce.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="1139">
-          <caret line="67" column="1" selection-start-line="67" selection-start-column="1" selection-end-line="67" selection-end-column="1" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/Recursion/Permutations_bez_povtorenie.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="68">
-          <caret line="4" column="3" selection-start-line="4" selection-start-column="3" selection-end-line="4" selection-end-column="3" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/Recursion/permutations_loops.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="833">
-          <caret line="49" selection-start-line="49" selection-end-line="49" />
-        </state>
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/src/Recursion/Permutations_recursion.java">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="731">
@@ -526,13 +651,6 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/src/Recursion/Permutations_recursion.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="340">
-          <caret line="20" selection-start-line="20" selection-end-line="20" />
-        </state>
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/src/random/sayHello.java">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="187">
@@ -550,13 +668,6 @@
     <entry file="file://$PROJECT_DIR$/src/Arrays/AppearanceCount.java" />
     <entry file="file://$PROJECT_DIR$/src/Arrays/Counting.java" />
     <entry file="file://$PROJECT_DIR$/src/Arrays/SymetricArrays.java" />
-    <entry file="file://$PROJECT_DIR$/src/Recursion/MessageInBottle.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="119">
-          <caret line="8" selection-start-line="8" selection-end-line="8" />
-        </state>
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/src/Arrays/ZigZag.java">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="255">
@@ -606,13 +717,6 @@
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="119">
           <caret line="7" column="13" selection-start-line="7" selection-start-column="13" selection-end-line="7" selection-end-column="13" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/Arrays/SubsetOfSumS.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="170">
-          <caret line="11" column="104" selection-start-line="11" selection-start-column="24" selection-end-line="11" selection-end-column="104" />
         </state>
       </provider>
     </entry>
@@ -668,13 +772,6 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/src/Recursion/Combinations.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="329">
-          <caret line="26" column="5" selection-start-line="16" selection-start-column="3" selection-end-line="26" selection-end-column="5" />
-        </state>
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/src/ExamExercises/TheGreedyDwarf.java" />
     <entry file="file://$PROJECT_DIR$/src/Recursion/Expressions.java">
       <provider selected="true" editor-type-id="text-editor">
@@ -690,23 +787,102 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/src/AdvancedExam/TheGreedyDwarf.java">
+    <entry file="file://$PROJECT_DIR$/src/Recursion/Combinations.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="17">
-          <caret line="49" column="13" selection-start-line="49" selection-start-column="13" selection-end-line="49" selection-end-column="13" />
+        <state relative-caret-position="386">
+          <caret line="31" column="9" lean-forward="true" selection-start-line="31" selection-start-column="9" selection-end-line="31" selection-end-column="9" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/Recursion/Permutations_recursion.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="24">
+          <caret line="20" selection-start-line="20" selection-end-line="20" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/Recursion/MessageInBottle.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="391">
+          <caret line="27" column="10" selection-start-line="27" selection-start-column="10" selection-end-line="27" selection-end-column="10" />
           <folding>
             <element signature="imports" expanded="true" />
           </folding>
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/src/AdvancedExam/Expressions.java">
+    <entry file="file://$PROJECT_DIR$/src/Arrays/SubsetOfSumS.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="153">
-          <caret line="9" column="15" lean-forward="true" selection-start-line="9" selection-start-column="15" selection-end-line="9" selection-end-column="15" />
+        <state relative-caret-position="765">
+          <caret line="46" selection-end-line="46" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/Arrays/mazalo.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="340">
+          <caret line="21" column="7" selection-start-line="21" selection-start-column="7" selection-end-line="21" selection-end-column="7" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/AdvancedExam/TheGreedyDwarf.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="578">
+          <caret line="37" column="33" selection-start-line="37" selection-start-column="33" selection-end-line="37" selection-end-column="33" />
           <folding>
             <element signature="imports" expanded="true" />
           </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/AdvancedExamRemake/TwoMakeASum.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="391">
+          <caret line="25" column="9" selection-start-line="25" selection-start-column="9" selection-end-line="25" selection-end-column="9" />
+          <folding>
+            <element signature="imports" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="jar://C:/Program Files/Java/jdk-10/lib/src.zip!/java.base/java/lang/StringLatin1.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="170">
+          <caret line="43" selection-start-line="43" selection-end-line="43" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/AdvancedExam/Expressions.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="-1453">
+          <caret line="12" column="46" lean-forward="true" selection-start-line="12" selection-start-column="46" selection-end-line="12" selection-end-column="46" />
+          <folding>
+            <element signature="imports" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/AdvancedExamRemake/AandB.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="-113">
+          <caret line="8" column="16" selection-start-line="8" selection-start-column="16" selection-end-line="8" selection-end-column="16" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/AdvancedExamRemake/ExpressionsAgain.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="663">
+          <caret line="39" selection-start-line="39" selection-end-line="39" />
+          <folding>
+            <element signature="imports" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/AdvancedExamRemake/JoroTheNaughty.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="17">
+          <caret line="4" column="13" selection-start-line="4" selection-start-column="13" selection-end-line="4" selection-end-column="13" />
         </state>
       </provider>
     </entry>
